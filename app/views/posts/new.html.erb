@@ -1,0 +1,9 @@
+<div class="content__title">
+  報告・連絡・相談の内容
+</div>
+
+<%= form_with model: @post, class: :form, local: true do |form| %>
+  <%= form.text_field :title, placeholder: :タイトル, class: :form__title %>
+  <%= form.text_area :content, placeholder: :内容を入力してください, class: :form__text %>
+  <%= form.submit '投稿する', class: :form__btn %>
+<% end %>
