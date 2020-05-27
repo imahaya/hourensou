@@ -2,7 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 body{
-  background-color: #f6f6f6;
+  background-color: gray;
   min-width: 650px;
   .header{
     height: 56px;
@@ -103,7 +103,7 @@ body{
         display: block;
         border-radius: 5px;
         color: #ffffff;
-        background-color:#55c500;
+        background-color:black;
         padding: 0 10px;
         text-decoration: none;
         margin-right: 10px;
@@ -112,7 +112,7 @@ body{
         display: block;
         border-radius: 5px;
         color: #ffffff;
-        background-color:#55c500;
+        background-color:red;
         padding: 0 10px;
         text-decoration: none;
         margin-left: 10px;
