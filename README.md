@@ -11,7 +11,7 @@ hourensou
 ## デプロイ先
 herokuによるデプロイ
 https://morning-headland-97173.herokuapp.com/
-## テストアカウント&ID
+## テストアカウント&パスワード
 ●ニックネーム  test
 ●Eメールアドレス  test@test
 ●パスワード  123456
