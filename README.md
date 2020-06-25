@@ -1,7 +1,7 @@
 # アプリケーション名
 hourensou
 
-# トップページ
+## トップページ
 [![トップページ](https://i.gyazo.com/40d0e20d923780b41a3c5f6c78196da3.png)](https://gyazo.com/40d0e20d923780b41a3c5f6c78196da3)
 
 # 制作背景(意図)
@@ -21,6 +21,12 @@ hourensou
 ●ToDoリスト、報告、連絡、相談の投稿機能
 
 ●投稿内容の編集、削除機能
+
+## 投稿ページ
+[![投稿ページ](https://i.gyazo.com/9c35f652fb7ac26ae652cae253096f77.png)](https://gyazo.com/9c35f652fb7ac26ae652cae253096f77)
+
+## 編集、削除ページ
+[![編集、削除ページ](https://i.gyazo.com/683c68193e2cdf44b3567a2bd7d2820a.png)](https://gyazo.com/683c68193e2cdf44b3567a2bd7d2820a)
 
 # 工夫したポイント
 投稿する際、タイトルや投稿内容が空だった場合トップページに表示されないようにバリデーションを設定しました。
